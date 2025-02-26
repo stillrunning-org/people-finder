@@ -482,7 +482,7 @@
 
 ---
 
-# Historical People Who Died Aged Between 30 and 35
+# Historical People Who Died Aged Between 30 and 34
 
 1. **Yuri Gagarin**
    - **Link**: [Yuri Gagarin Wikipedia](https://en.wikipedia.org/wiki/Yuri_Gagarin)
@@ -569,3 +569,445 @@
     - **Short Description**: Italian opera composer, known for his works in the bel canto tradition. Bellini died of complications related to an acute infection, possibly due to a fever.
 
 
+# Historical People Who Died Aged Between 35 and 39
+
+### Wolfgang Amadeus Mozart
+
+
+### Wolfgang Amadeus Mozart
+- **Link**: [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+- **Date of Birth**: January 27, 1756
+- **Date of Death**: December 5, 1791
+- **Age at Death**: 35
+- **Description**: Wolfgang Amadeus Mozart was an Austrian composer and one of the most influential figures in Western music history. He is known for his prolific and versatile works, including symphonies, operas, chamber music, and choral compositions. He died at the age of 35, likely due to complications from a severe illness, with theories ranging from rheumatic fever to poisoning. His death remains a subject of speculation.
+
+---
+
+### Vincent van Gogh
+- **Link**: [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
+- **Date of Birth**: March 30, 1853
+- **Date of Death**: July 29, 1890
+- **Age at Death**: 37
+- **Description**: Vincent van Gogh was a Dutch post-impressionist painter, renowned for his expressive and emotional use of color. Despite his mental health struggles, he created over 2,100 artworks, including 860 oil paintings. Van Gogh died from a gunshot wound, which is widely believed to have been self-inflicted, though the circumstances are still debated.
+
+---
+
+### Martin Luther King Jr.
+- **Link**: [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+- **Date of Birth**: January 15, 1929
+- **Date of Death**: April 4, 1968
+- **Age at Death**: 39
+- **Description**: Martin Luther King Jr. was an American Baptist minister and activist who became the most prominent leader in the civil rights movement. He advocated for racial equality and nonviolent resistance. King was assassinated by a sniper's bullet in Memphis, Tennessee, while campaigning for sanitation workers' rights.
+
+---
+
+### Marilyn Monroe
+- **Link**: [Marilyn Monroe](https://en.wikipedia.org/wiki/Marilyn_Monroe)
+- **Date of Birth**: June 1, 1926
+- **Date of Death**: August 5, 1962
+- **Age at Death**: 36
+- **Description**: Marilyn Monroe was an American actress, singer, and model, famous for her roles in films such as *Some Like It Hot* and *The Seven Year Itch*. Monroe's death was officially ruled as a probable suicide from an overdose of barbiturates, though there has been ongoing speculation about the true circumstances surrounding her passing.
+
+---
+
+### Alexander Pushkin
+- **Link**: [Alexander Pushkin](https://en.wikipedia.org/wiki/Alexander_Pushkin)
+- **Date of Birth**: June 6, 1799
+- **Date of Death**: February 10, 1837
+- **Age at Death**: 37
+- **Description**: Alexander Pushkin was a Russian poet, playwright, and novelist, regarded as one of the greatest literary figures in Russia. His death occurred after a duel with Georges-Charles de Heeckeren d'Anthès, during which he was mortally wounded. The duel was over a scandal involving his wife, Natalia Goncharova.
+
+---
+
+### Che Guevara
+- **Link**: [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara)
+- **Date of Birth**: June 14, 1928
+- **Date of Death**: October 9, 1967
+- **Age at Death**: 39
+- **Description**: Ernesto "Che" Guevara was an Argentine revolutionary, physician, and author, best known for his role in the Cuban Revolution alongside Fidel Castro. He was executed by the Bolivian army after being captured while leading an insurrection in Bolivia.
+
+---
+
+### Lord Byron
+- **Link**: [Lord Byron](https://en.wikipedia.org/wiki/Lord_Byron)
+- **Date of Birth**: January 22, 1788
+- **Date of Death**: April 19, 1824
+- **Age at Death**: 36
+- **Description**: Lord Byron was an English poet, politician, and playwright, widely known for his works like *Don Juan* and *Childe Harold's Pilgrimage*. He died of a fever, likely the result of a long-standing illness, possibly exacerbated by his efforts to support Greek independence in their war against the Ottoman Empire.
+
+---
+
+### Blaise Pascal
+- **Link**: [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
+- **Date of Birth**: June 19, 1623
+- **Date of Death**: August 19, 1662
+- **Age at Death**: 39
+- **Description**: Blaise Pascal was a French mathematician, physicist, inventor, and writer. He made important contributions to the study of fluids, the theory of probability, and the development of early computing machines. Pascal died from complications of a long battle with a variety of ailments, including tuberculosis.
+
+---
+
+### Frédéric Chopin
+- **Link**: [Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin)
+- **Date of Birth**: March 1, 1810
+- **Date of Death**: October 17, 1849
+- **Age at Death**: 39
+- **Description**: Frédéric Chopin was a Polish composer and virtuoso pianist, known for his romantic-era piano compositions. His death was attributed to tuberculosis, which had caused his frail health for many years. Chopin passed away in Paris, where he had been living for most of his adult life.
+
+---
+
+### Bob Marley
+- **Link**: [Bob Marley](https://en.wikipedia.org/wiki/Bob_Marley)
+- **Date of Birth**: February 6, 1945
+- **Date of Death**: May 11, 1981
+- **Age at Death**: 36
+- **Description**: Bob Marley was a Jamaican singer, songwriter, and musician, and is considered one of the pioneers of reggae music. His death was caused by complications from melanoma, a type of skin cancer that had spread to his brain and lungs.
+
+---
+
+### Diana, Princess of Wales
+- **Link**: [Diana, Princess of Wales](https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales)
+- **Date of Birth**: July 1, 1961
+- **Date of Death**: August 31, 1997
+- **Age at Death**: 36
+- **Description**: Diana, Princess of Wales, was the first wife of Prince Charles and mother of Prince William and Prince Harry. She was known for her charity work and public persona. Diana died in a car crash in Paris, which was caused by a high-speed chase with paparazzi, leading to her fatal injuries.
+
+---
+
+### Federico García Lorca
+- **Link**: [Federico García Lorca](https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca)
+- **Date of Birth**: June 5, 1898
+- **Date of Death**: August 19, 1936
+- **Age at Death**: 38
+- **Description**: Federico García Lorca was a Spanish poet, playwright, and theatre director, known for works like *Blood Wedding* and *The House of Bernarda Alba*. He was executed by Nationalist forces during the Spanish Civil War, allegedly due to his political beliefs and sexuality.
+
+---
+
+### Arthur Rimbaud
+- **Link**: [Arthur Rimbaud](https://en.wikipedia.org/wiki/Arthur_Rimbaud)
+- **Date of Birth**: October 20, 1854
+- **Date of Death**: November 10, 1891
+- **Age at Death**: 37
+- **Description**: Arthur Rimbaud was a French poet known for his influence on modern literature and the symbolism movement. He abandoned poetry at a young age and later became a trader in Africa. He died of cancer, following a long and painful illness.
+
+---
+
+### Swami Vivekananda
+- **Link**: [Swami Vivekananda](https://en.wikipedia.org/wiki/Swami_Vivekananda)
+- **Date of Birth**: January 12, 1863
+- **Date of Death**: July 4, 1902
+- **Age at Death**: 39
+- **Description**: Swami Vivekananda was an Indian Hindu monk and spiritual leader who introduced the philosophy of Vedanta and Yoga to the Western world. He passed away at the age of 39, with reports attributing his death to a heart attack, though some sources suggest other underlying health issues.
+
+---
+
+### Malcolm X
+- **Link**: [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
+- **Date of Birth**: May 19, 1925
+- **Date of Death**: February 21, 1965
+- **Age at Death**: 39
+- **Description**: Malcolm X was an African American Muslim minister and human rights activist, known for his controversial and influential role in the civil rights movement. He was assassinated while giving a speech in New York City by members of the Nation of Islam, which he had previously left.
+
+---
+
+### Marie Antoinette
+- **Link**: [Marie Antoinette](https://en.wikipedia.org/wiki/Marie_Antoinette)
+- **Date of Birth**: November 2, 1755
+- **Date of Death**: October 16, 1793
+- **Age at Death**: 37
+- **Description**: Marie Antoinette was the Queen of France and wife of King Louis XVI. She was executed by guillotine during the French Revolution, after being convicted of treason and other charges.
+
+---
+
+
+# Historical People Who Died Aged Between 40 and 44
+
+## 1. [Anton Chekhov](http://www.wikidata.org/entity/Q5685)
+- **Born**: January 29, 1860
+- **Died**: July 15, 1904
+- **Age at Death**: 44
+- **Short Bio**: Anton Chekhov was a Russian playwright and short-story writer, famous for his works such as *The Seagull*, *Three Sisters*, and *The Cherry Orchard*. He died of tuberculosis, a disease he had battled for several years.
+
+## 2. [Franz Kafka](http://www.wikidata.org/entity/Q905)
+- **Born**: July 3, 1883
+- **Died**: June 3, 1924
+- **Age at Death**: 40
+- **Short Bio**: Franz Kafka was a German-speaking Bohemian writer, known for his works *The Trial*, *The Metamorphosis*, and *The Castle*. He died of complications from tuberculosis.
+
+## 3. [Edgar Allan Poe](http://www.wikidata.org/entity/Q16867)
+- **Born**: January 19, 1809
+- **Died**: October 7, 1849
+- **Age at Death**: 40
+- **Short Bio**: Edgar Allan Poe was an American writer, poet, editor, and literary critic, best known for his macabre tales. The exact cause of his death is unclear, but it is believed to have been related to alcoholism, brain lesions, or complications from tuberculosis.
+
+## 4. [Jane Austen](http://www.wikidata.org/entity/Q36322)
+- **Born**: December 16, 1775
+- **Died**: July 18, 1817
+- **Age at Death**: 41
+- **Short Bio**: Jane Austen was an English novelist known for her six major novels, including *Pride and Prejudice* and *Sense and Sensibility*. She died of an illness believed to be Addison's disease.
+
+## 5. [Alan Turing](http://www.wikidata.org/entity/Q7251)
+- **Born**: June 23, 1912
+- **Died**: June 7, 1954
+- **Age at Death**: 41
+- **Short Bio**: Alan Turing was an English mathematician and computer scientist who is considered one of the fathers of modern computing. He died by cyanide poisoning, ruled as a suicide, possibly linked to his chemical castration as punishment for his homosexuality.
+
+## 6. [John Lennon](http://www.wikidata.org/entity/Q1203)
+- **Born**: October 9, 1940
+- **Died**: December 8, 1980
+- **Age at Death**: 40
+- **Short Bio**: John Lennon was an English singer, songwriter, and peace activist, best known for co-founding The Beatles. He was tragically murdered by Mark David Chapman outside his New York City apartment.
+
+## 7. [Søren Kierkegaard](http://www.wikidata.org/entity/Q6512)
+- **Born**: May 5, 1813
+- **Died**: November 11, 1855
+- **Age at Death**: 42
+- **Short Bio**: Søren Kierkegaard was a Danish philosopher, theologian, and writer, often considered the father of existentialism. He died from a long illness, possibly related to a combination of physical and mental health issues.
+
+## 8. [Antoine de Saint-Exupéry](http://www.wikidata.org/entity/Q2908)
+- **Born**: June 29, 1900
+- **Died**: July 31, 1944
+- **Age at Death**: 44
+- **Short Bio**: Antoine de Saint-Exupéry was a French writer and aviator, best known for *The Little Prince*. He disappeared during a reconnaissance flight over the Mediterranean during World War II and is presumed to have been shot down.
+
+## 9. [Nikolai Gogol](http://www.wikidata.org/entity/Q43718)
+- **Born**: April 1, 1809
+- **Died**: March 4, 1852
+- **Age at Death**: 42
+- **Short Bio**: Nikolai Gogol was a Russian dramatist and novelist, best known for *Dead Souls* and *The Overcoat*. He died after a prolonged illness, which was believed to be caused by complications from his mental health.
+
+## 10. [Guy de Maupassant](http://www.wikidata.org/entity/Q9327)
+- **Born**: August 5, 1850
+- **Died**: July 6, 1893
+- **Age at Death**: 42
+- **Short Bio**: Guy de Maupassant was a French writer known for his short stories, including *The Necklace* and *Boule de Suif*. He died from complications of syphilis, after spending his last years in a mental institution.
+
+## 11. [Robert Louis Stevenson](http://www.wikidata.org/entity/Q1512)
+- **Born**: November 13, 1850
+- **Died**: December 3, 1894
+- **Age at Death**: 44
+- **Short Bio**: Robert Louis Stevenson was a Scottish novelist, poet, and travel writer, known for *Treasure Island* and *The Strange Case of Dr Jekyll and Mr Hyde*. He died from a stroke, which was exacerbated by his long battle with tuberculosis.
+
+## 12. [Jack London](http://www.wikidata.org/entity/Q45765)
+- **Born**: January 12, 1876
+- **Died**: November 22, 1916
+- **Age at Death**: 40
+- **Short Bio**: Jack London was an American novelist and short story writer, best known for *The Call of the Wild* and *White Fang*. He died from uremia, a result of his long history of kidney disease.
+
+## 13. [Robert F. Kennedy](http://www.wikidata.org/entity/Q25310)
+- **Born**: November 20, 1925
+- **Died**: June 6, 1968
+- **Age at Death**: 42
+- **Short Bio**: Robert F. Kennedy was an American politician and attorney, serving as the U.S. Attorney General. He was assassinated by Sirhan Sirhan while campaigning for the presidency.
+
+## 14. [José Martí](http://www.wikidata.org/entity/Q103285)
+- **Born**: January 28, 1853
+- **Died**: May 19, 1895
+- **Age at Death**: 42
+- **Short Bio**: José Martí was a Cuban writer, poet, and revolutionary, who played a key role in Cuba's fight for independence. He was killed in battle during the Cuban War of Independence.
+
+## 15. [Mary, Queen of Scots](http://www.wikidata.org/entity/Q131412)
+- **Born**: December 18, 1542
+- **Died**: February 8, 1587
+- **Age at Death**: 44
+- **Short Bio**: Mary, Queen of Scots, was the queen of Scotland from 1542 until her forced abdication. She was executed for her involvement in plots against Queen Elizabeth I of England.
+
+## 16. [Louis XIII of France](http://www.wikidata.org/entity/Q737533)
+- **Born**: September 27, 1601
+- **Died**: May 14, 1643
+- **Age at Death**: 41
+- **Short Bio**: Louis XIII was the King of France from 1610 until his death. He died of natural causes, likely related to an ongoing illness.
+
+## 17. [Pablo Escobar](http://www.wikidata.org/entity/Q187447)
+- **Born**: December 1, 1949
+- **Died**: December 2, 1993
+- **Age at Death**: 44
+- **Short Bio**: Pablo Escobar was a Colombian drug lord, who headed the Medellín Cartel. He was killed in a shootout with the Colombian National Police.
+
+## 18. [Theodor Herzl](http://www.wikidata.org/entity/Q44003)
+- **Born**: May 2, 1860
+- **Died**: July 3, 1904
+- **Age at Death**: 44
+- **Short Bio**: Theodor Herzl was an Austro-Hungarian journalist and the father of modern political Zionism. He died of heart failure, which was likely aggravated by stress.
+
+## 19. [Maryam Mirzakhani](http://www.wikidata.org/entity/Q1771279)
+- **Born**: May 12, 1977
+- **Died**: July 14, 2017
+- **Age at Death**: 40
+- **Short Bio**: Maryam Mirzakhani was an Iranian mathematician and the first woman to win the Fields Medal. She died of breast cancer after a prolonged battle with the disease.
+
+## 20. [Lesya Ukrainka](http://www.wikidata.org/entity/Q298033)
+- **Born**: February 25, 1871
+- **Died**: August 1, 1913
+- **Age at Death**: 42
+- **Short Bio**: Lesya Ukrainka was a Ukrainian poet, writer, and playwright. She suffered from tuberculosis, which ultimately led to her death at the age of 42.
+
+# Historical People Who Died Aged Between 45 and 49
+
+
+### 1. [John F. Kennedy](http://www.wikidata.org/entity/Q9696)
+- **Date of Birth**: May 29, 1917
+- **Date of Death**: November 22, 1963
+- **Age at Death**: 46 years
+- **Short Bio**: John F. Kennedy was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was shot and killed in Dallas, Texas, while riding in a motorcade. His death was a major moment in U.S. history and led to widespread mourning.
+  
+### 2. [Oscar Wilde](http://www.wikidata.org/entity/Q30875)
+- **Date of Birth**: October 16, 1854
+- **Date of Death**: November 30, 1900
+- **Age at Death**: 46 years
+- **Short Bio**: Oscar Wilde was an Irish playwright, poet, and author, best known for works like *The Picture of Dorian Gray* and *The Importance of Being Earnest*. He died of meningitis, a result of an ear infection caused by his long imprisonment for "gross indecency."
+
+### 3. [George Orwell](http://www.wikidata.org/entity/Q3335)
+- **Date of Birth**: June 25, 1903
+- **Date of Death**: January 21, 1950
+- **Age at Death**: 46 years
+- **Short Bio**: George Orwell was an English writer and journalist, famous for his books *1984* and *Animal Farm*. He died from tuberculosis, a disease he had struggled with for many years.
+
+### 4. [Albert Camus](http://www.wikidata.org/entity/Q34670)
+- **Date of Birth**: November 7, 1913
+- **Date of Death**: January 4, 1960
+- **Age at Death**: 46 years
+- **Short Bio**: Albert Camus was a French-Algerian philosopher, writer, and journalist. He was awarded the Nobel Prize in Literature in 1957. He died in a car accident at the age of 46, along with his friend, Michel Gallimard.
+
+### 5. [Frida Kahlo](http://www.wikidata.org/entity/Q5588)
+- **Date of Birth**: July 6, 1907
+- **Date of Death**: July 13, 1954
+- **Age at Death**: 47 years
+- **Short Bio**: Frida Kahlo was a Mexican painter known for her self-portraits that explored identity, postcolonialism, and gender. She died of a pulmonary embolism, likely a result of her many health issues from polio and a bus accident.
+
+### 6. [Rosa Luxemburg](http://www.wikidata.org/entity/Q22670)
+- **Date of Birth**: March 5, 1871
+- **Date of Death**: January 15, 1919
+- **Age at Death**: 47 years
+- **Short Bio**: Rosa Luxemburg was a Polish-German Marxist theorist and revolutionary socialist. She was murdered by German soldiers during the Spartacist uprising in 1919, along with Karl Liebknecht.
+
+### 7. [Freddie Mercury](http://www.wikidata.org/entity/Q15869)
+- **Date of Birth**: September 5, 1946
+- **Date of Death**: November 24, 1991
+- **Age at Death**: 45 years
+- **Short Bio**: Freddie Mercury was the lead vocalist of the British rock band Queen. He died from complications of AIDS, just a day after publicly revealing his diagnosis.
+
+### 8. [Charles Baudelaire](http://www.wikidata.org/entity/Q501)
+- **Date of Birth**: April 9, 1821
+- **Date of Death**: August 31, 1867
+- **Age at Death**: 46 years
+- **Short Bio**: Charles Baudelaire was a French poet, essayist, and art critic. He died from complications due to a stroke after years of suffering from health problems, including syphilis.
+
+### 9. [Simón Bolívar](http://www.wikidata.org/entity/Q8605)
+- **Date of Birth**: July 24, 1783
+- **Date of Death**: December 17, 1830
+- **Age at Death**: 47 years
+- **Short Bio**: Simón Bolívar was a Venezuelan military and political leader who played a key role in Latin America's successful struggle for independence from the Spanish Empire. He died of tuberculosis, after years of declining health.
+
+### 10. [James Clerk Maxwell](http://www.wikidata.org/entity/Q9095)
+- **Date of Birth**: June 13, 1831
+- **Date of Death**: November 5, 1879
+- **Age at Death**: 48 years
+- **Short Bio**: James Clerk Maxwell was a Scottish physicist best known for formulating the theory of electromagnetism. He died from abdominal cancer.
+
+### 11. [Kahlil Gibran](http://www.wikidata.org/entity/Q47737)
+- **Date of Birth**: January 6, 1883
+- **Date of Death**: April 10, 1931
+- **Age at Death**: 48 years
+- **Short Bio**: Kahlil Gibran was a Lebanese-American poet, writer, and philosopher, best known for *The Prophet*. He died from cirrhosis of the liver.
+
+### 12. [Édith Piaf](http://www.wikidata.org/entity/Q1631)
+- **Date of Birth**: December 19, 1915
+- **Date of Death**: October 10, 1963
+- **Age at Death**: 47 years
+- **Short Bio**: Édith Piaf was a French singer, songwriter, and actress, famous for songs like *La Vie en Rose*. She died from liver cancer after a life marked by personal tragedy.
+
+### 13. [James A. Garfield](http://www.wikidata.org/entity/Q34597)
+- **Date of Birth**: November 19, 1831
+- **Date of Death**: September 19, 1881
+- **Age at Death**: 49 years
+- **Short Bio**: James A. Garfield was the 20th president of the United States. He was assassinated by Charles J. Guiteau, who shot him twice; Garfield succumbed to his wounds after a prolonged struggle.
+
+### 14. [Joseph Goebbels](http://www.wikidata.org/entity/Q41749)
+- **Date of Birth**: October 29, 1897
+- **Date of Death**: May 1, 1945
+- **Age at Death**: 47 years
+- **Short Bio**: Joseph Goebbels was a German Nazi politician and minister of propaganda. He and his wife committed suicide by poisoning their six children and themselves after Hitler's death.
+
+### 15. [Pierre Curie](http://www.wikidata.org/entity/Q37463)
+- **Date of Birth**: May 15, 1859
+- **Date of Death**: April 19, 1906
+- **Age at Death**: 46 years
+- **Short Bio**: Pierre Curie was a French physicist, best known for his work on radioactivity with his wife, Marie Curie. He died after being struck by a horse-drawn cart in Paris.
+
+### 16. [Taras Shevchenko](http://www.wikidata.org/entity/Q134958)
+- **Date of Birth**: March 9, 1814
+- **Date of Death**: March 10, 1861
+- **Age at Death**: 47 years
+- **Short Bio**: Taras Shevchenko was a Ukrainian poet, artist, and political figure, known as the national poet of Ukraine. He died from a stroke after years of suffering from health issues caused by his harsh life.
+
+### 17. [Robert Schumann](http://www.wikidata.org/entity/Q7351)
+- **Date of Birth**: June 8, 1810
+- **Date of Death**: July 29, 1856
+- **Age at Death**: 46 years
+- **Short Bio**: Robert Schumann was a German composer and music critic. He died in a mental institution after a period of depression, having attempted suicide by drowning himself.
+
+### 18. [Yukio Mishima](http://www.wikidata.org/entity/Q134456)
+- **Date of Birth**: January 14, 1925
+- **Date of Death**: November 25, 1970
+- **Age at Death**: 45 years
+- **Short Bio**: Yukio Mishima was a Japanese author, playwright, and nationalist. He committed seppuku (a form of ritual suicide) after a failed coup attempt to restore the powers of the Japanese emperor.
+
+### 19. [Charles I of England](http://www.wikidata.org/entity/Q81506)
+- **Date of Birth**: November 29, 1600
+- **Date of Death**: February 9, 1649
+- **Age at Death**: 48 years
+- **Short Bio**: Charles I was the King of England, Scotland, and Ireland. He was executed by beheading after being convicted of high treason for his actions during the English Civil War.
+
+### 20. [Rajiv Gandhi](http://www.wikidata.org/entity/Q4593)
+- **Date of Birth**: August 20, 1944
+- **Date of Death**: May 21, 1991
+- **Age at Death**: 46 years
+- **Short Bio**: Rajiv Gandhi was the 6th Prime Minister of India. He was assassinated by a bomb explosion orchestrated by the Tamil Tigers in Tamil Nadu.
+
+
+
+
+
+
+out of this list extract the real historical people (not animals, not fictional characters) and give links to their wikipedia articles. Return : name, link, date of birth, date of death, age at the moment of death, short description about their bio that must include the cause of death. Return as markdown.  Return as markdown code 
+
+http://www.wikidata.org/entity/Q9696|John F. Kennedy|1917-05-29T00:00:00Z|1963-11-22T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/John%20F.%20Kennedy%2C%20White%20House%20color%20photo%20portrait.jpg|244|46
+http://www.wikidata.org/entity/Q30875|Oscar Wilde|1854-10-16T00:00:00Z|1900-11-30T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20by%20Napoleon%20Sarony.%20Three-quarter-length%20photograph%2C%20seated.jpg|215|46
+http://www.wikidata.org/entity/Q3335|George Orwell|1903-06-25T00:00:00Z|1950-01-21T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/George%20Orwell%20press%20photo.jpg|203|46
+http://www.wikidata.org/entity/Q34670|Albert Camus|1913-11-07T00:00:00Z|1960-01-04T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Camus%2C%20gagnant%20de%20prix%20Nobel%2C%20portrait%20en%20buste%2C%20pos%C3%A9%20au%20bureau%2C%20faisant%20face%20%C3%A0%20gauche%2C%20cigarette%20de%20tabagisme.jpg|201|46
+http://www.wikidata.org/entity/Q4688112|Sung Jae-gi|1967-09-11T00:00:00Z|2013-07-26T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Sungjaegi2013.png|190|45
+http://www.wikidata.org/entity/Q5588|Frida Kahlo|1907-07-06T00:00:00Z|1954-07-13T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg|188|47
+http://www.wikidata.org/entity/Q22670|Friedrich Schiller|1759-11-10T00:00:00Z|1805-05-09T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Schiller%20by%20Ludovike%20Simanowiz.jpg|178|45
+http://www.wikidata.org/entity/Q7231|Rosa Luxemburg|1871-03-05T00:00:00Z|1919-01-15T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Luxemburg.jpg|177|47
+http://www.wikidata.org/entity/Q15869|Freddie Mercury|1946-09-05T00:00:00Z|1991-11-24T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Freddie%20Mercury%20at%20Sheraton%20Hotel%20Buenos%20Aires.jpg|174|45
+http://www.wikidata.org/entity/Q501|Charles Baudelaire|1821-04-09T00:00:00Z|1867-08-31T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Baudelaire%20crop.jpg|174|46
+http://www.wikidata.org/entity/Q8605|Simón Bolívar|1783-07-24T00:00:00Z|1830-12-17T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg|170|47
+http://www.wikidata.org/entity/Q9095|James Clerk Maxwell|1831-06-13T00:00:00Z|1879-11-05T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/James-Clerk-Maxwell-1831-1879.jpg|155|48
+http://www.wikidata.org/entity/Q47737|Kahlil Gibran|1883-01-06T00:00:00Z|1931-04-10T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Kahlil%20Gibran%201913.jpg|154|48
+http://www.wikidata.org/entity/Q1631|Édith Piaf|1915-12-19T00:00:00Z|1963-10-10T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Piaf%20Harcourt%201946%202.jpg|145|47
+http://www.wikidata.org/entity/Q34597|James A. Garfield|1831-11-19T00:00:00Z|1881-09-19T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/James%20Abram%20Garfield%2C%20photo%20portrait%20seated.jpg|145|49
+http://www.wikidata.org/entity/Q11637|Judy Garland|1922-06-10T00:00:00Z|1969-06-22T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Judy%20Garland%20The%20Harvey%20Girls%20MGM%20Publicity%20still.jpeg|144|47
+http://www.wikidata.org/entity/Q41749|Joseph Goebbels|1897-10-29T00:00:00Z|1945-05-01T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1968-101-20A%2C%20Joseph%20Goebbels.jpg|136|47
+http://www.wikidata.org/entity/Q34389|Whitney Houston|1963-08-09T00:00:00Z|2012-02-11T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Whitney%20Houston%20%28cropped3%29.JPEG|131|48
+http://www.wikidata.org/entity/Q37463|Pierre Curie|1859-05-15T00:00:00Z|1906-04-19T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Curie%20by%20Dujardin%20c1906.jpg|129|46
+http://www.wikidata.org/entity/Q134958|Taras Shevchenko|1814-03-09T00:00:00Z|1861-03-10T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2.%20%D0%93.%20%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE.%20%D0%9A%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C%201859.jpg|129|47
+http://www.wikidata.org/entity/Q7351|Robert Schumann|1810-06-08T00:00:00Z|1856-07-29T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Robert-schumann.jpg|128|46
+http://www.wikidata.org/entity/Q155979|Alexei Navalny|1976-06-04T00:00:00Z|2024-02-16T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Navalny%20%28cropped%29%202.jpg|128|47
+http://www.wikidata.org/entity/Q42|Q42|1952-03-11T00:00:00Z|2001-05-11T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Douglas%20adams%20portrait.jpg|126|49
+http://www.wikidata.org/entity/Q83003|Antonio Gramsci|1891-01-22T00:00:00Z|1937-04-27T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Gramsci.png|118|46
+http://www.wikidata.org/entity/Q835|Mikhail Bulgakov|1891-05-15T00:00:00Z|1940-03-10T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg|114|48
+http://www.wikidata.org/entity/Q169566|H. P. Lovecraft|1890-08-20T00:00:00Z|1937-03-15T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/H.%20P.%20Lovecraft%2C%20June%201934.jpg|112|46
+http://www.wikidata.org/entity/Q43989|Grigori Rasputin|1869-01-21T00:00:00Z|1916-12-30T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Grigori%20Rasputin%201916.jpg|109|47
+http://www.wikidata.org/entity/Q15193|Alexander I of Russia|1777-12-23T00:00:00Z|1825-12-01T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Alexander%20I%20of%20Russia%20by%20Alexander%20Molinari%201813.png|107|47
+http://www.wikidata.org/entity/Q134456|Yukio Mishima|1925-01-14T00:00:00Z|1970-11-25T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Yukio%20Mishima%2C%201955%20%28cropped%29.jpg|106|45
+http://www.wikidata.org/entity/Q81506|Charles I of England|1600-11-29T00:00:00Z|1649-02-09T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20%281599-1641%29%20-%20Charles%20I%20%281600-1649%29%20-%20RCIN%20404398%20-%20Royal%20Collection.jpg|106|48
+http://www.wikidata.org/entity/Q4593|Rajiv Gandhi|1944-08-20T00:00:00Z|1991-05-21T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20Gandhi%20%281987%29.jpg|105|46
+http://www.wikidata.org/entity/Q797848|Babur|1483-02-23T00:00:00Z|1531-01-05T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Humayun%20and%20Babur%20%28Late%20Shah%20Jahan%20Album%29%20Babur%20detail.jpg|105|47
+http://www.wikidata.org/entity/Q80048|Q80048|1899-01-17T00:00:00Z|1947-01-25T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Capone%20in%201930.jpg|105|48
+http://www.wikidata.org/entity/Q155855|Karel Čapek|1890-01-09T00:00:00Z|1938-12-25T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20%C4%8Capek%20podepisuje%20prvn%C3%AD%20v%C3%BDtisky%20Pov%C4%9Btron%C4%9B%2C%20Pestr%C3%BD%20t%C3%BDden%2027.1.1934.jpg|105|48
+http://www.wikidata.org/entity/Q83235|Horatio Nelson|1758-09-29T00:00:00Z|1805-10-21T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/HoratioNelson1.jpg|104|47
+http://www.wikidata.org/entity/Q83428|Paracelsus|1493-11-19T00:00:00Z|1541-10-04T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus.jpg|104|47
+http://www.wikidata.org/entity/Q483512|Isadora Duncan|1878-05-27T00:00:00Z|1927-09-14T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Isadora%20Duncan%20portrait%20cropped.jpg|104|49
+http://www.wikidata.org/entity/Q173481|Fernando Pessoa|1888-06-13T00:00:00Z|1935-11-30T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/216%202310-Fernando-Pessoa.jpg|103|47
+http://www.wikidata.org/entity/Q178903|Alexander Hamilton|1757-01-11T00:00:00Z|1804-07-12T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Hamilton%20by%20John%20Trumbull%2C%201806.png|102|47
+http://www.wikidata.org/entity/Q179680|Alfred de Musset|1810-12-11T00:00:00Z|1857-05-02T00:00:00Z|http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20de%20musset.jpg|98|46
