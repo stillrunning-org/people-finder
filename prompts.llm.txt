@@ -1,0 +1,52 @@
+start new chat, forget everything that we talked about earlier
+-----
+
+Reply with a single word "True" or "False" if that was a real person (True) or not (False): neither a mythical nor a fictional character, nor a non-human (e.g. a famous animal also should fall into False bucket): someone who actually lived on Earth.
+
+{"id":"http://www.wikidata.org/entity/Q123674234","name":"Saad Malki","age":0,"birthDate":"","deathDate":"1988-01-01T00:00:00Z"}
+
+----------------------------------------
+
+Double-check their birth date, death date and recalculate the age at the moment of dying. Explain your reasoning in a few words. Find out the missing information
+
+----------------------------------------
+
+give me their "birthDate", "deathDate" and the "updatedAge" as JSON. Use your best guess if not available. Also, give me confidence score in percentage about the values. Return only JSON; any explanation include as "explanation" field in JSON
+
+----------------------------------------
+
+Give me a short description about this person. Include information about their age at the moment of dying and also any circumstances around his death (but not too much, maybe 1-2 sentences: 70% of response about general info, 30% about his death). Return as a plain text
+
+----------------------------------
+
+
+
+
+2.
+sqlite> select json_object('id', id, 'name', name, 'age', age, 'birthDate', birthDate, 'deathDate', deathDate) from persons where age < 10 order by RANDOM() limit 1;
+https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q97299936
+https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exlimit=max&explaintext&exintro&titles=Zaw%20Htay&redirects=
+
+
+----------------------------------------
+Forget everything and start new chat. I have these two JSONs related to some person
+
+{"id":"http://www.wikidata.org/entity/Q6975321","name":"Mordechai Kikayon","age":0,"birthDate":"","deathDate":"1993-12-01T00:00:00Z"
+{"batchcomplete":"","query":{"pages":{"70697995":{"pageid":70697995,"ns":0,"title":"Mordechai Kikayon","extract":"Mordehai Kikayon (Hebrew: \u05de\u05e8\u05d3\u05db\u05d9 \u05e7\u05d9\u05e7\u05d9\u05d5\u05df, also transliterated as Mordechai Kikion) (1915\u20131993) was one of the founders of the computer industry of Israel, the organizer and first head of Mamram. Before and after Mamram he was with the Rafael Advanced Defense Systems.\nMordechai Kikayon was born in Russian Empire and immigrated to the land of Israel in 1924. He was appointed to be the first commander of Mamram by head of Operations Directorate aluf Yitzhak Rabin on June 26, 1959.  He was the first Israeli civilian to head a military unit.\nHe received the Kaplan Prize (a prize for increasing labor productivity) for the establishment of the computer center at Rafael after he left Mamram. \n\n"}}},"limits":{"extracts":20}}
+
+Which well-known historical figure is this information about?
+
+---
+
+Reply with a single word "True" or "False" if that was a real person (True) or not (False): neither a mythical nor a fictional character, nor a non-human (e.g. a famous animal also should fall into False bucket): someone who actually lived on Earth.
+
+---
+calculate their age at the moment of dying. Double-check the provided earlier information in external sources. Find out the missing information in external sources.
+
+---
+
+give me their "birthDate", "deathDate" and the "deathAge" as JSON. Use your best guess and other sources of information if the provided information was not enough. Also, give me confidence score in percentage about the values ("confidence" key). Return only JSON; any explanation include as "explanation" field in JSON
+
+---
+
+Give me a short description about this person. Include information about their age at the moment of dying and also any circumstances around his death (but not too much, maybe 1-2 sentences: 70% of response about general info, 30% about his death). Return as a plain text
