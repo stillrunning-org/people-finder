@@ -1,52 +1,26 @@
-start new chat, forget everything that we talked about earlier
------
+select json_object('id', id, 'name', name, 'age', age, 'birthDate', birthDate, 'deathDate', deathDate) from persons where age < 10 order by RANDOM() limit 1;
 
-Reply with a single word "True" or "False" if that was a real person (True) or not (False): neither a mythical nor a fictional character, nor a non-human (e.g. a famous animal also should fall into False bucket): someone who actually lived on Earth.
-
-{"id":"http://www.wikidata.org/entity/Q123674234","name":"Saad Malki","age":0,"birthDate":"","deathDate":"1988-01-01T00:00:00Z"}
-
-----------------------------------------
-
-Double-check their birth date, death date and recalculate the age at the moment of dying. Explain your reasoning in a few words. Find out the missing information
-
-----------------------------------------
-
-give me their "birthDate", "deathDate" and the "updatedAge" as JSON. Use your best guess if not available. Also, give me confidence score in percentage about the values. Return only JSON; any explanation include as "explanation" field in JSON
-
-----------------------------------------
-
-Give me a short description about this person. Include information about their age at the moment of dying and also any circumstances around his death (but not too much, maybe 1-2 sentences: 70% of response about general info, 30% about his death). Return as a plain text
-
-----------------------------------
-
-
-
-
-2.
-sqlite> select json_object('id', id, 'name', name, 'age', age, 'birthDate', birthDate, 'deathDate', deathDate) from persons where age < 10 order by RANDOM() limit 1;
 https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q97299936
-https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exlimit=max&explaintext&exintro&titles=Zaw%20Htay&redirects=
+https://pl.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exlimit=max&explaintext&exintro&titles=Teofil Siennicki&redirects=
 
 
-----------------------------------------
-Forget everything and start new chat. I have these two JSONs related to some person
+# gpt-4o
 
-{"id":"http://www.wikidata.org/entity/Q6975321","name":"Mordechai Kikayon","age":0,"birthDate":"","deathDate":"1993-12-01T00:00:00Z"
-{"batchcomplete":"","query":{"pages":{"70697995":{"pageid":70697995,"ns":0,"title":"Mordechai Kikayon","extract":"Mordehai Kikayon (Hebrew: \u05de\u05e8\u05d3\u05db\u05d9 \u05e7\u05d9\u05e7\u05d9\u05d5\u05df, also transliterated as Mordechai Kikion) (1915\u20131993) was one of the founders of the computer industry of Israel, the organizer and first head of Mamram. Before and after Mamram he was with the Rafael Advanced Defense Systems.\nMordechai Kikayon was born in Russian Empire and immigrated to the land of Israel in 1924. He was appointed to be the first commander of Mamram by head of Operations Directorate aluf Yitzhak Rabin on June 26, 1959.  He was the first Israeli civilian to head a military unit.\nHe received the Kaplan Prize (a prize for increasing labor productivity) for the establishment of the computer center at Rafael after he left Mamram. \n\n"}}},"limits":{"extracts":20}}
+I have only this information, which might be misleading.
 
-Which well-known historical figure is this information about?
+{"id":"http://www.wikidata.org/entity/Q8249160","name":"Baochu","age":0,"birthDate":"","deathDate":"1900-01-01T00:00:00Z"}
+{"batchcomplete":"","query":{"pages":{"1894197":{"pageid":1894197,"ns":0,"title":"\u8446\u521d","extract":"\u8446\u521d\uff081860\u5e74\u20141900\u5e74\uff09\u963f\u9c81\u7279\u6c0f\uff0c\u5b57\u6548\u5148\uff0c\u53f7\u51ac\u5fc3\uff0c\u6ee1\u6d32\u9576\u9ec4\u65d7\u4eba\uff0c\u6e05\u671d\u5916\u621a\u3001\u4e66\u6cd5\u5bb6\u3002"}}},"limits":{"extracts":20}}
 
----
+Figure out who is the real historical figure behind it. Particularly, I need the age they had at the moment of dying. THIS IS THE MUST, THE NUMBER MUST BE IN THE ANSWER. If the exact number is not possible to determine (e.g. birth- or deathDate is not known),  you must use your best judgement, knowledge and any resources (including external) available to figure it out or calculate it, because the number MUST be calculated somehow.
 
-Reply with a single word "True" or "False" if that was a real person (True) or not (False): neither a mythical nor a fictional character, nor a non-human (e.g. a famous animal also should fall into False bucket): someone who actually lived on Earth.
-
----
-calculate their age at the moment of dying. Double-check the provided earlier information in external sources. Find out the missing information in external sources.
-
----
-
-give me their "birthDate", "deathDate" and the "deathAge" as JSON. Use your best guess and other sources of information if the provided information was not enough. Also, give me confidence score in percentage about the values ("confidence" key). Return only JSON; any explanation include as "explanation" field in JSON
-
----
-
-Give me a short description about this person. Include information about their age at the moment of dying and also any circumstances around his death (but not too much, maybe 1-2 sentences: 70% of response about general info, 30% about his death). Return as a plain text
+Return back your thinking followed by a JSON with the following fields:
+- "isRealHuman" (boolean, True/False, if a real human being that ever lived on Earth, not a fictional character, not an animal etc)
+- "birthDate" (string in format YYYY-MM-DD, might be your estimate)
+- "deathDate" (string in format YYYY-MM-DD,  might be your estimate),
+- "ageAtDeath" (integer, might be your estimate),
+- "shortDescriptionEn" (string, short description in English, must include 70% of general information and 30% about the circumstances of their death)
+- "shortDescriptionFr" (string, short description in French, same as above)
+- "shortDescriptionDe" (string, short description in German, same as above)
+- "shortDescriptionEs" (string, short description in Spanish, same as above)
+- "shortDescriptionRu" (string, short description in Russian, same as above)
+- "confidence" (integer from 0 to 100, your confidence in the information provided, in percents)
