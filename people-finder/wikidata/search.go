@@ -40,6 +40,7 @@ WHERE {
 		return nil, err
 	}
 	req.Header.Set("Accept", "application/sparql-results+json")
+	req.Header.Set("User-Agent", "people-finder/0.1 (stillrunning.org)")
 
 	client := &http.Client{}
 	resp, err := client.Do(req)
@@ -47,6 +48,9 @@ WHERE {
 		return nil, err
 	}
 	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("wikidata query failed with status %s", resp.Status)
+	}
 
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {

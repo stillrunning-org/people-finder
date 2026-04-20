@@ -5,7 +5,7 @@ import (
 	"fmt"
 	_ "github.com/mattn/go-sqlite3"
 	"log"
-	w "stillrunning.org/people-finder/wikidata"
+	w "stillrunning.org/people-finder/people-finder/wikidata"
 )
 
 // Function to initialize the database and create the table
@@ -47,4 +47,34 @@ func upsertPerson(db *sql.DB, p w.Person) error {
 
 	_, err := db.Exec(query, p.Id, p.Name, p.BirthDate, p.DeathDate, p.Pic, p.SiteLinksCnt, p.Age)
 	return err
+}
+
+func upsertPeople(db *sql.DB, people []w.Person) error {
+	if len(people) == 0 {
+		return nil
+	}
+
+	tx, err := db.Begin()
+	if err != nil {
+		return err
+	}
+
+	stmt, err := tx.Prepare(`
+	INSERT OR REPLACE INTO persons (id, name, birthDate, deathDate, pic, siteLinksCnt, age)
+	VALUES (?, ?, ?, ?, ?, ?, ?)
+	`)
+	if err != nil {
+		_ = tx.Rollback()
+		return err
+	}
+	defer stmt.Close()
+
+	for _, p := range people {
+		if _, err := stmt.Exec(p.Id, p.Name, p.BirthDate, p.DeathDate, p.Pic, p.SiteLinksCnt, p.Age); err != nil {
+			_ = tx.Rollback()
+			return err
+		}
+	}
+
+	return tx.Commit()
 }
