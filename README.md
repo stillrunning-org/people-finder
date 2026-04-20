@@ -25,10 +25,17 @@ Custom range:
 ./bin/people-finder -start-year -5000 -end-year 2026
 ```
 
+Custom range with multi-year step:
+
+```bash
+./bin/people-finder -start-year -5000 -end-year 2026 -step 10
+```
+
 Notes:
 - SQLite DB is created at `./people.db` (repo root).
 - Import may take a long time for the full range.
 - You can tune pacing/retries with:
+  - `-step` (default `1`, years per query interval)
   - `-request-delay-ms` (default `150`)
   - `-retries` (default `3`)
   - `-retry-delay-ms` (default `1500`)

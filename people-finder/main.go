@@ -67,13 +67,17 @@ func dedupePeopleByID(people []w.Person) []w.Person {
 func main() {
 	startYear := flag.Int("start-year", defaultStartYear, "starting year, inclusive")
 	endYear := flag.Int("end-year", defaultEndYear, "ending year, inclusive")
-	retries := flag.Int("retries", 3, "max retries per year query")
+	stepYears := flag.Int("step", 1, "number of years per query interval")
+	retries := flag.Int("retries", 3, "max retries per interval query")
 	retryDelayMs := flag.Int("retry-delay-ms", 1500, "delay between retries in milliseconds")
-	requestDelayMs := flag.Int("request-delay-ms", 150, "delay between successful year queries in milliseconds")
+	requestDelayMs := flag.Int("request-delay-ms", 150, "delay between successful interval queries in milliseconds")
 	flag.Parse()
 
 	if *startYear > *endYear {
 		log.Fatalf("invalid range: start-year (%d) must be <= end-year (%d)", *startYear, *endYear)
+	}
+	if *stepYears < 1 {
+		log.Fatalf("invalid step: step (%d) must be >= 1", *stepYears)
 	}
 
 	db := initDatabase()
@@ -84,13 +88,18 @@ func main() {
 	retryDelay := time.Duration(*retryDelayMs) * time.Millisecond
 	requestDelay := time.Duration(*requestDelayMs) * time.Millisecond
 
-	for year := *startYear; year <= *endYear; year++ {
+	for year := *startYear; year <= *endYear; year += *stepYears {
+		intervalEnd := year + *stepYears
+		if maxEnd := *endYear + 1; intervalEnd > maxEnd {
+			intervalEnd = maxEnd
+		}
+
 		date1 := yearStartDate(year)
-		date2 := yearStartDate(year + 1)
+		date2 := yearStartDate(intervalEnd)
 
 		people, err := fetchWikidataDeathsWithRetry(date1, date2, *retries, retryDelay)
 		if err != nil {
-			log.Printf("year %d: fetch failed after %d attempts: %v", year, *retries, err)
+			log.Printf("years %d-%d: fetch failed after %d attempts: %v", year, intervalEnd-1, *retries, err)
 			continue
 		}
 
@@ -103,18 +112,18 @@ func main() {
 
 		uniquePeople := dedupePeopleByID(people)
 		if err := upsertPeople(db, uniquePeople); err != nil {
-			log.Printf("year %d: db upsert failed: %v", year, err)
+			log.Printf("years %d-%d: db upsert failed: %v", year, intervalEnd-1, err)
 			continue
 		}
 
 		totalFetched += len(people)
 		totalSaved += len(uniquePeople)
-		fmt.Printf("year %d: fetched=%d saved=%d total_saved=%d\n", year, len(people), len(uniquePeople), totalSaved)
+		fmt.Printf("years %d-%d: fetched=%d saved=%d total_saved=%d\n", year, intervalEnd-1, len(people), len(uniquePeople), totalSaved)
 
 		if requestDelay > 0 {
 			time.Sleep(requestDelay)
 		}
 	}
 
-	fmt.Printf("completed: start_year=%d end_year=%d total_fetched=%d total_saved=%d\n", *startYear, *endYear, totalFetched, totalSaved)
+	fmt.Printf("completed: start_year=%d end_year=%d step=%d total_fetched=%d total_saved=%d\n", *startYear, *endYear, *stepYears, totalFetched, totalSaved)
 }
